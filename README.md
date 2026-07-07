@@ -1,5 +1,9 @@
 # 📖 Quote Generator
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,flask,python,sqlite,git,github,vscode&theme=light" />
+</p>
+
 A full-stack Quote Generator website built with **React**, **Flask**, and **SQLite**. The website fetches random inspirational quotes from an external API, displays them in a clean and responsive interface, and stores each generated quote in a SQLite database for history and favorites management.
 
 ---
